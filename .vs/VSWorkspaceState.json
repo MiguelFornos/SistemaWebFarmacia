@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FarmaciaDAO"
   ],
-  "SelectedNode": "\\FarmaciaWeb.sln",
+  "SelectedNode": "\\FarmaciaDAO\\Class1.cs",
   "PreviewInSolutionExplorer": false
 }
