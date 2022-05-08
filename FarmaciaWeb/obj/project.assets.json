@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Julio\\.nuget\\packages\\": {}
+    "C:\\Users\\Julio\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julio\\Source\\Repos\\SistemaWebFarmacia\\FarmaciaWeb\\FarmaciaWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Julio\\source\\repos\\SistemaWebFarmacia\\FarmaciaWeb\\FarmaciaWeb.csproj",
       "projectName": "FarmaciaWeb",
-      "projectPath": "C:\\Users\\Julio\\Source\\Repos\\SistemaWebFarmacia\\FarmaciaWeb\\FarmaciaWeb.csproj",
+      "projectPath": "C:\\Users\\Julio\\source\\repos\\SistemaWebFarmacia\\FarmaciaWeb\\FarmaciaWeb.csproj",
       "packagesPath": "C:\\Users\\Julio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julio\\Source\\Repos\\SistemaWebFarmacia\\FarmaciaWeb\\obj\\",
+      "outputPath": "C:\\Users\\Julio\\source\\repos\\SistemaWebFarmacia\\FarmaciaWeb\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Julio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

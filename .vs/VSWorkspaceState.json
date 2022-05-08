@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FarmaciaDAO"
+    "\\FarmaciaDAO",
+    "\\FarmaciaWeb"
   ],
-  "SelectedNode": "\\FarmaciaDAO\\Class1.cs",
+  "SelectedNode": "\\FarmaciaDAO\\FarmaciaDAO.csproj",
   "PreviewInSolutionExplorer": false
 }

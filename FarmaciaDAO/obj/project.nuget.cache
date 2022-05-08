@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oxnBYBnPTubRSFo0C8v5+dOtyVYA1OZZmu+QlvqP+0cHekCNDnaVu8hdBm23M3OEwlut9zmsKwZmd848unPwvg==",
+  "dgSpecHash": "dVbf+bJSZb2SuL+bXN5XnO3RqwO0W/K459c6rmcRlFmo5NywUWlbBL+RxGBHLzNlwkUxiCCOMSzmw+MMj6CaWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julio\\Source\\Repos\\SistemaWebFarmacia\\FarmaciaDAO\\FarmaciaDAO.csproj",
+  "projectFilePath": "C:\\Users\\Julio\\source\\repos\\SistemaWebFarmacia\\FarmaciaDAO\\FarmaciaDAO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
