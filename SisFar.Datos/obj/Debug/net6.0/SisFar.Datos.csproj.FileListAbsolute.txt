@@ -1,0 +1,14 @@
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\obj\Debug\net6.0\SisFar.Datos.csproj.AssemblyReference.cache
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\obj\Debug\net6.0\SisFar.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\obj\Debug\net6.0\SisFar.Datos.AssemblyInfoInputs.cache
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\obj\Debug\net6.0\SisFar.Datos.AssemblyInfo.cs
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\obj\Debug\net6.0\SisFar.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\bin\Debug\net6.0\SisFar.Datos.deps.json
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\bin\Debug\net6.0\SisFar.Datos.runtimeconfig.json
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\bin\Debug\net6.0\SisFar.Datos.dll
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\bin\Debug\net6.0\SisFar.Datos.pdb
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\obj\Debug\net6.0\SisFar.Datos.dll
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\obj\Debug\net6.0\refint\SisFar.Datos.dll
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\obj\Debug\net6.0\SisFar.Datos.pdb
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\obj\Debug\net6.0\SisFar.Datos.genruntimeconfig.cache
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Datos\obj\Debug\net6.0\ref\SisFar.Datos.dll

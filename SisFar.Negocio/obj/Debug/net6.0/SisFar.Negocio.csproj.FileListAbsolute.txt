@@ -1,0 +1,12 @@
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Negocio\bin\Debug\net6.0\SisFar.Negocio.deps.json
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Negocio\bin\Debug\net6.0\SisFar.Negocio.dll
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Negocio\bin\Debug\net6.0\SisFar.Negocio.pdb
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Negocio\obj\Debug\net6.0\SisFar.Negocio.csproj.AssemblyReference.cache
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Negocio\obj\Debug\net6.0\SisFar.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Negocio\obj\Debug\net6.0\SisFar.Negocio.AssemblyInfoInputs.cache
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Negocio\obj\Debug\net6.0\SisFar.Negocio.AssemblyInfo.cs
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Negocio\obj\Debug\net6.0\SisFar.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Negocio\obj\Debug\net6.0\SisFar.Negocio.dll
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Negocio\obj\Debug\net6.0\refint\SisFar.Negocio.dll
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Negocio\obj\Debug\net6.0\SisFar.Negocio.pdb
+C:\Users\Julio\source\repos\SistemaWebFarmacia\SisFar.Negocio\obj\Debug\net6.0\ref\SisFar.Negocio.dll
